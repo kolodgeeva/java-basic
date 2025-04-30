@@ -29,7 +29,7 @@ This course is designed for **absolute beginners** who want to learn Java from s
 1. Clone this repository  
 
 ```
-git clone https://github.com/your-username/java-basic.git
+git clone https://github.com/kolodgeeva/java-basic.git
 ```
 
 
